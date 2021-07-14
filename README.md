@@ -1,0 +1,1 @@
+this is frogcoin's first git project
